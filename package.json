@@ -1,0 +1,24 @@
+{
+  "name": "demo-packagebyayusht",
+  "version": "1.1.0",
+  "description": "Check whether string is Ayush or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "test123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayushthapa123/first-npm-package.git"
+  },
+  "keywords": [
+    "ayush",
+    "isayush",
+    "hiayush"
+  ],
+  "author": "Ayush Thapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayushthapa123/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/Ayushthapa123/first-npm-package#readme"
+}
